@@ -15,6 +15,7 @@ Step 5: Get the details of the server
 5.4: minimum, maximum and average times.
 Step 6: print the results.
 Step 7: Stop the program.
+
 ### PROGRAM:
 ## CLIENT:
 ```
