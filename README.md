@@ -16,7 +16,7 @@ Step 5: Get the details of the server
 Step 6: print the results.
 Step 7: Stop the program.
 ### PROGRAM:
-##CLIENT:
+## CLIENT:
 ```
 import socket
 from pythonping import ping
